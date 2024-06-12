@@ -15,7 +15,7 @@ function App() {
           ursídeos. É o urso de mais ampla distribuição geográfica dentre todos
           os membros vivos de sua família.
         </p>
-        <button onClick={() => alert("Saiba mais sobre os tigres!")}>
+        <button onClick={() => alert("Saiba mais sobre os ursos-pardos!")}>
           Saiba Mais
         </button>
       </div>
